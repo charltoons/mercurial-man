@@ -13,12 +13,12 @@ body, html {
   background-repeat: no-repeat;
 }
 
-#the-man[data-direction="0"]{ background-image: url(/images/0.jpg); }
-#the-man[data-direction="1"]{ background-image: url(/images/1.jpg); }
-#the-man[data-direction="2"]{ background-image: url(/images/2.jpg); }
-#the-man[data-direction="3"]{ background-image: url(/images/3.jpg); }
-#the-man[data-direction="4"]{ background-image: url(/images/4.jpg); }
-#the-man[data-direction="5"]{ background-image: url(/images/5.jpg); }
-#the-man[data-direction="6"]{ background-image: url(/images/6.jpg); }
-#the-man[data-direction="7"]{ background-image: url(/images/7.jpg); }
-#the-man[data-direction="8"]{ background-image: url(/images/8.jpg); }
+#the-man[data-direction="0"]{ background-image: url(images/0.jpg); }
+#the-man[data-direction="1"]{ background-image: url(images/1.jpg); }
+#the-man[data-direction="2"]{ background-image: url(images/2.jpg); }
+#the-man[data-direction="3"]{ background-image: url(images/3.jpg); }
+#the-man[data-direction="4"]{ background-image: url(images/4.jpg); }
+#the-man[data-direction="5"]{ background-image: url(images/5.jpg); }
+#the-man[data-direction="6"]{ background-image: url(images/6.jpg); }
+#the-man[data-direction="7"]{ background-image: url(images/7.jpg); }
+#the-man[data-direction="8"]{ background-image: url(images/8.jpg); }
