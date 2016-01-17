@@ -1,4 +1,4 @@
-var MAX_CONSTANT = 45;
+var MAX_CONSTANT = 30;
 
 var POINTS = [
 
